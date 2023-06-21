@@ -1,4 +1,4 @@
-# Finding-the-Closest-Pair-of-Points
+# Finding the Closest Pair of Points
 
 This C++ program is designed to read a set of two-dimensional points from a file, and find the shortest distance between any pair of points in the set efficently.
 

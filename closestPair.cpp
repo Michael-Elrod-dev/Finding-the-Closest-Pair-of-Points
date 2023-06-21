@@ -1,10 +1,3 @@
-/*
- * Name: Michael Elrod
- * Date Submitted: 10/20/2022
- * Lab Section: 002
- * Assignment Name: Lab 6 - Finding the Closest Pair of Points
- */
-
 #include <iostream>
 #include <iomanip>
 #include <fstream>
